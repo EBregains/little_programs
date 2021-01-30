@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/little_programs/v16
+*.vcxproj
+*.filters
+*.user
+/little_programs.sln
+/dependencies/
+*.obj
+sort_algorithm_visualization/bin/intermediates/
+sort_algorithm_visualization/bin/Win32/Debug/
